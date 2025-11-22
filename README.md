@@ -1,4 +1,4 @@
-# Playwright SDET Test Boilerplate
+# Playwright Test
 
 This project provides a solid foundation to get you started with writing and running automated tests using Playwright.
 
@@ -23,3 +23,4 @@ Automatically fixes the linting errors in the code.
 ### `npm ci`
 
 Runs the linting and test scripts in a continuous integration environment.
+
